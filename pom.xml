@@ -4,4 +4,7 @@
   <artifactId>jenkinsProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>jenkinsProject</name>
+  <build>
+ 	<finalName>jenkinsProject</finalName>
+  </build>
 </project>
